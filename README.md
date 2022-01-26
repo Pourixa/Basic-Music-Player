@@ -1,3 +1,2 @@
 # Basic-Music-Player
-
-**A Simple Music Player **
+__A Simple Music Player__
