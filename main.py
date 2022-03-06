@@ -13,7 +13,7 @@ def browseFiles():
         
         filename = filedialog.askopenfilenames(
         title='Select Music',
-        initialdir='A:\Music',
+        initialdir='C:\',
         filetypes=filetypes)
         global music
         for i in range(len(filename)):
